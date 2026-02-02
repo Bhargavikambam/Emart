@@ -1,7 +1,8 @@
-export const furnitureData = [{
+export const furnitureData = [
+    {
         "id": "1",
         "product": "Furniture",
-        "image": "/assets/Furniture/1.jpg",
+        "image": `${process.env.PUBLIC_URL}/assets/Furniture/1.jpg`,
         "type": "Sofa",
         "brand": "IKEA",
         "model": "ComfortPlus",
@@ -12,7 +13,7 @@ export const furnitureData = [{
     {
         "id": "2",
         "product": "Furniture",
-        "image": "/assets/Furniture/2.jpg",
+        "image": `${process.env.PUBLIC_URL}/assets/Furniture/2.jpg`,
         "type": "Dining Table",
         "brand": "Wayfair",
         "model": "ElegantDine",
@@ -23,9 +24,9 @@ export const furnitureData = [{
     {
         "id": "3",
         "product": "Furniture",
-        "image": "/assets/Furniture/3.jpg",
+        "image": `${process.env.PUBLIC_URL}/assets/Furniture/3.jpg`,
         "type": "Bed",
-        "brand": "Ashley ",
+        "brand": "Ashley",
         "model": "DreamRest",
         "price": "799.50",
         "category": "Home",
@@ -34,7 +35,7 @@ export const furnitureData = [{
     {
         "id": "4",
         "product": "Furniture",
-        "image": "/assets/Furniture/4.jpg",
+        "image": `${process.env.PUBLIC_URL}/assets/Furniture/4.jpg`,
         "type": "Coffee Table",
         "brand": "West Elm",
         "model": "ModernBlend",
@@ -45,7 +46,7 @@ export const furnitureData = [{
     {
         "id": "5",
         "product": "Furniture",
-        "image": "/assets/Furniture/5.jpg",
+        "image": `${process.env.PUBLIC_URL}/assets/Furniture/5.jpg`,
         "type": "Wardrobe",
         "brand": "Houzz",
         "model": "SpaceSaver",
@@ -56,7 +57,7 @@ export const furnitureData = [{
     {
         "id": "6",
         "product": "Furniture",
-        "image": "/assets/Furniture/6.jpg",
+        "image": `${process.env.PUBLIC_URL}/assets/Furniture/6.jpg`,
         "type": "Bookshelf",
         "brand": "Crate & Barrel",
         "model": "BookHaven",
@@ -67,7 +68,7 @@ export const furnitureData = [{
     {
         "id": "7",
         "product": "Furniture",
-        "image": "/assets/Furniture/7.jpg",
+        "image": `${process.env.PUBLIC_URL}/assets/Furniture/7.jpg`,
         "type": "Desk",
         "brand": "Staples",
         "model": "WorkPro",
@@ -78,7 +79,7 @@ export const furnitureData = [{
     {
         "id": "8",
         "product": "Furniture",
-        "image": "/assets/Furniture/8.jpg",
+        "image": `${process.env.PUBLIC_URL}/assets/Furniture/8.jpg`,
         "type": "Bar Stool",
         "brand": "Target",
         "model": "UrbanChic",
@@ -89,7 +90,7 @@ export const furnitureData = [{
     {
         "id": "9",
         "product": "Furniture",
-        "image": "/assets/Furniture/9.jpg",
+        "image": `${process.env.PUBLIC_URL}/assets/Furniture/9.jpg`,
         "type": "Dresser",
         "brand": "Pottery Barn",
         "model": "RusticCharm",
@@ -100,7 +101,7 @@ export const furnitureData = [{
     {
         "id": "10",
         "product": "Furniture",
-        "image": "/assets/Furniture/10.jpg",
+        "image": `${process.env.PUBLIC_URL}/assets/Furniture/10.jpg`,
         "type": "Couch",
         "brand": "Crate & Barrel",
         "model": "ComfyLounge",
@@ -111,7 +112,7 @@ export const furnitureData = [{
     {
         "id": "11",
         "product": "Furniture",
-        "image": "/assets/Furniture/11.jpg",
+        "image": `${process.env.PUBLIC_URL}/assets/Furniture/11.jpg`,
         "type": "Side Table",
         "brand": "CB2",
         "model": "MinimalistSide",
@@ -122,7 +123,7 @@ export const furnitureData = [{
     {
         "id": "12",
         "product": "Furniture",
-        "image": "/assets/Furniture/12.jpg",
+        "image": `${process.env.PUBLIC_URL}/assets/Furniture/12.jpg`,
         "type": "Bedside Table",
         "brand": "Ethan Allen",
         "model": "ClassicNight",
@@ -130,4 +131,4 @@ export const furnitureData = [{
         "category": "Home",
         "description": "A classic bedside table with a timeless design and convenient storage."
     }
-]
+];

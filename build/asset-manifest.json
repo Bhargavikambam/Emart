@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Emart/static/css/main.6a05614b.css",
+    "main.js": "/Emart/static/js/main.76a5177d.js",
+    "index.html": "/Emart/index.html",
+    "main.6a05614b.css.map": "/Emart/static/css/main.6a05614b.css.map",
+    "main.76a5177d.js.map": "/Emart/static/js/main.76a5177d.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6a05614b.css",
+    "static/js/main.76a5177d.js"
+  ]
+}
