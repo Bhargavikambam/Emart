@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/e-mart/static/css/main.6a05614b.css",
-    "main.js": "/e-mart/static/js/main.6b90dc05.js",
+    "main.js": "/e-mart/static/js/main.df8a41e1.js",
     "index.html": "/e-mart/index.html",
     "main.6a05614b.css.map": "/e-mart/static/css/main.6a05614b.css.map",
-    "main.6b90dc05.js.map": "/e-mart/static/js/main.6b90dc05.js.map"
+    "main.df8a41e1.js.map": "/e-mart/static/js/main.df8a41e1.js.map"
   },
   "entrypoints": [
     "static/css/main.6a05614b.css",
-    "static/js/main.6b90dc05.js"
+    "static/js/main.df8a41e1.js"
   ]
 }
